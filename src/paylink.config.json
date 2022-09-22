@@ -2,19 +2,19 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
+    "name": "Magdiel Mari",
+    "description": "Cuban Entusiast of Technologies",
+    "alt": "Photo of Magdiel Mari",
     "hero": "./images/daniel-castillo.png"
   },
 
   "Social": [
-    { "label": "Link", "value": "bxl-link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:your@mail.com" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "value": "bxl-link", "link": " " },
+    { "label": "Email", "value": "bx-envelope", "link": "magdielang02@gmail.com" },
+    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/magdielangel21" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/MagdielAngel21" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": " " },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "https://www.instagram.com/magdiel_angel/" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -34,85 +34,31 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1qtlw9g9n5rfd08k8ja6meuc6535ylwn0ljkx0zk",
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd",
-      "label": "BinanceUSD",
-      "value": "",
-      "img": "./images/payments/busd.svg"
-    },
-    {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
-    },
-    {
-      "id": "doge",
-      "label": "DogeCoin",
-      "value": "",
-      "img": "./images/payments/doge.svg"
-    },
-    {
-      "id": "eth",
-      "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
-      "img": "./images/payments/eth.svg"
-    },
-    {
-      "id": "ltc",
-      "label": "Litecoin",
-      "value": "",
-      "img": "./images/payments/ltc.svg"
-    },
-    {
-      "id": "paypal",
-      "label": "Paypal",
-      "value": "",
-      "img": "./images/payments/paypal.svg"
-    },
-    {
       "id": "usdt",
-      "label": "USDT",
-      "value": "",
+      "label": "USDT TRC-20",
+      "value": "TDFw768KMnNLuN768FCCyiUmSXrjZjVy48",
       "img": "./images/payments/usdt.svg"
-    },
-    {
-      "id": "qvapay",
-      "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
-      "img": "./images/payments/qvapay.svg"
-    },
-    {
-      "id": "sol",
-      "label": "Solana",
-      "value": "",
-      "img": "./images/payments/sol.svg"
-    },
-    {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
-      "img": "./images/payments/ada.svg"
     },
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "TDFw768KMnNLuN768FCCyiUmSXrjZjVy48",
       "img": "./images/payments/trx.svg"
     },
     {
-      "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": "./images/payments/xrp.svg"
-    },
-    {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "BanMet CUP",
+      "value": "9227-9598-7300-5305",
+      "img": "./images/payments/card.svg"
+    },
+     {
+      "id": "card",
+      "label": "BanMet USD",
+      "value": "9225-9598-7959-4544",
       "img": "./images/payments/card.svg"
     }
   ]
